@@ -1,4 +1,6 @@
 streamlit
+pandas
 seaborn
 plotly
-pandas
+matplotlib
+scikit-learn==1.7.2
